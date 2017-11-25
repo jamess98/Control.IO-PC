@@ -1,0 +1,10 @@
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\bin\Debug\Control-IO.exe.config
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\bin\Debug\Control-IO.exe
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\bin\Debug\Control-IO.pdb
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\obj\Debug\Control-IO.csprojResolveAssemblyReference.cache
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\obj\Debug\Control_IO.Form1.resources
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\obj\Debug\Control_IO.Properties.Resources.resources
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\obj\Debug\Control-IO.csproj.GenerateResource.Cache
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\obj\Debug\Control-IO.csproj.CoreCompileInputs.cache
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\obj\Debug\Control-IO.exe
+C:\Users\grdgy\Documents\GitHub\Control.IO\Control-IO\Control-IO\obj\Debug\Control-IO.pdb
